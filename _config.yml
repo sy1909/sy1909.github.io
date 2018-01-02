@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 logo: test site # add logo name
 title: sy1909
-=======
-logo: # add logo name
-title: sy1909 - coding test
->>>>>>> fde6a9467ac06d2c4377d5b77cda4ebb1a18365a
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,12 +14,12 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-pic:  # your photo
+author-name: ksy # your name
+about-author: ksy # about author
 email: seungyoon1909@gmail.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+phone:  # your pnone number
+website:  # you website
 
 # Social link
 google_url:    # add url link
